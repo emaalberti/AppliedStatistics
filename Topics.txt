@@ -1,0 +1,10 @@
+TOPICS OF LABS
+
+Lab 2 - Theory of PCA
+Lab 3 - Hierarchical Clustering + Evaluation Metrics
+Lab 4 - K-Means & GMM Clustering + Evaluation
+Lab 5 - LDA & QDA + KNN
+Lab 6 - Linear Regression
+Lab 7 - Logistics Regression - Binary and Multiclass
+Lab 8 - Variable Selection, Cross Validation and Regularization
+Lab 9 - Trees, Random Forest and Boosting
